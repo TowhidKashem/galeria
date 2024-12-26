@@ -1,9 +1,6 @@
 {
-  "platforms": ["ios", "android", "web"],
+  "platforms": ["ios"],
   "ios": {
     "modules": ["GaleriaModule"]
-  },
-  "android": {
-    "modules": ["nandorojo.modules.galeria.GaleriaModule"]
   }
 }
